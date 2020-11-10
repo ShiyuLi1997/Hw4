@@ -111,7 +111,7 @@ def findLast(l,text):
 
 N = 200         # data input
 k = 40          # each input run k times and take the average time cost
-cap = 110        # cap of the intersection of Time sort and tim sort
+cap = 38        # cap of the intersection of Time sort and tim sort
 if __name__ == "__main__":
     mergeTime = []
     insertionTime = []
